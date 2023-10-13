@@ -19,6 +19,7 @@ Hu Tao's antics and eccentricity belies her role as the 77th Director of the Wan
 | **Artifacts** | Crimson Witch of Flames x4 |
 | **Main Stat** | CRIT Rate, CRIT DMG, HP%, Pyro DMG Bonus |
 
+Based from the newest Hutao's Build Wiki. [^1]
 
 
 ---
@@ -44,7 +45,7 @@ Hu Tao's antics and eccentricity belies her role as the 77th Director of the Wan
 
 * Guide to Afterlife
   * Only an unwavering flame can cleanse the impurities of this world Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the **Paramita Papilio state**.
-  * ==Paramita Papilio State==:
+  * Paramita Papilio State:
     1. Increases Hu Tao’s ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao’s Base ATK.
     2. Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion. Increases Hu Tao’s resistance to interruption. Paramita Papilio ends when its duration is over, or when Hu Tao has left the battlefield or fallen.
   * Blood Blossom Effect:
@@ -72,9 +73,9 @@ Hu Tao's antics and eccentricity belies her role as the 77th Director of the Wan
 ## Hu Tao Best Team Comp
 ![hu tao 2](asset/hutao_team.jpeg)
 
-- All best Hu Tao teams need Xingqiu in their party as ==Xingqiu's Rainswords apply Hydro faster== than Hu Tao's application, allowing her to ==consistently Vaporize the enemy==.
+- All best Hu Tao teams need Xingqiu in their party as Xingqiu's Rainswords apply Hydro faster than Hu Tao's application, allowing her to consistently Vaporize the enemy.
 
-- Having Yelan not only provides even more ==consistent off-field Hydro application==, but will also provide a ==DMG boost== to Hu Tao's already insane single target DMG as well as HP resonance
+- Having Yelan not only provides even more consistent off-field Hydro application, but will also provide a DMG boost to Hu Tao's already insane single target DMG as well as HP resonance
 
 vaporize
  : Deals ×1.5 Pyro DMG when a Pyro attack triggers the reaction.
@@ -90,11 +91,11 @@ vaporize
 ## How to Use Hu Tao
 
 ### Elemental Skill Strengthens DMG
-![skill_and_attack](https://img.game8.co/3332119/879ef1edb5e3e1ef93dff17d3c78d59b.gif/show)
+![skill_and_attack](asset/hutao_attack.gif)
 
 >Hu Tao's Elemental Skill allows her to sacrifice a certain amount of HP to infuse her weapon with the Pyro element. In addition to converting all damage to Pyro DMG, Hu Tao also receives an ATK boost.
 
->Use with caution, as ==overuse of Hu Tao's Elemental Skill might leave you with too little HP!==
+>Use with caution, as overuse of Hu Tao's Elemental Skill might leave you with too little HP!
 
 ### Hu Tao's Elemental Burst
 ![ultimate](https://img.game8.co/3332118/b83acd645169a38c18a8b5c955a1ff68.gif/show)
@@ -111,4 +112,6 @@ Why I think Hu tao is the best
 - `Einstein E = mc^2^ Ultimate Nuclear`
 - `Awesome Idle Animation`
 
-![idle_animation1](https://64.media.tumblr.com/1158ca0d6b8195c24671d301a77f1c3b/12a3eb1ca079baa7-4c/s400x600/1595bd28562a5fca975323ef458fa971e48c67df.gifv)
+![idle](asset/hutao_idle.gif)
+
+[^1]: Source :[Hutao Fandom Wiki](https://genshin-impact.fandom.com/wiki/Hu_Tao)
