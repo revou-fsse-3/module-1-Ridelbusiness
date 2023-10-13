@@ -24,13 +24,13 @@ Based from the newest Hutao's Build Wiki. [^1]
 
 ---
 ## Hu Tao's Strengths and Weaknesses
-###Strengths
+### Strengths
 - HP conversion to ATK contributes a huge amount of boost to her already good scaling and Vaporize potential.
 - Monstrous DPS against boss-type enemies or in single target situations.
 - Elemental Burst enables her to be self-sufficient especially with her high-risk, high-reward playstyle.
 - Provides CRIT Rate for other party members.
 
-###Weaknesses
+### Weaknesses
 - Often struggles against wild groups of enemies as she lacks AoE attacks outside of Elemental Burst.
 - Fast application of the Pyro element reduces her best team comp choices, often necessitating either Xingqiu or Yelan.
 - Unless you have her C1, limited stamina can dampen her performance and smoothness in playstyle.
@@ -77,8 +77,7 @@ Based from the newest Hutao's Build Wiki. [^1]
 
 - Having Yelan not only provides even more consistent off-field Hydro application, but will also provide a DMG boost to Hu Tao's already insane single target DMG as well as HP resonance
 
-vaporize
- : Deals ×1.5 Pyro DMG when a Pyro attack triggers the reaction.
+
 
 ---
 ## Hu Tao Best Constellation
