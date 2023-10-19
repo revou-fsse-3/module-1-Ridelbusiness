@@ -108,9 +108,11 @@ Based from the newest Hutao's Build Wiki. [^1]
 Why I think Hu tao is the best
 - `Super Strong DPS`
 - `Crazy Personality`
-- `Einstein E = mc^2^ Ultimate Nuclear`
+- Einstein E = mc^2^ Ultimate Nuclear
 - `Awesome Idle Animation`
 
 ![idle](asset/hutao_idle.gif)
 
 [^1]: Source :[Hutao Fandom Wiki](https://genshin-impact.fandom.com/wiki/Hu_Tao)
+
+E = mc^2^
