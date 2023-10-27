@@ -1,0 +1,208 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, label, a {
+    font-family: 'Roboto', sans-serif;
+}
+
+input{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.title{
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 15px;
+    
+}
+
+.topBanner{
+   width: 100%;
+   
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.navbarBrand{
+    display: flex;
+    align-items: center;
+}
+
+.navbarBrand img{
+    width: 200px;
+    min-width: 100px;
+}
+
+.navbarLink{
+    
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.navbarLink li{
+    padding: 0;
+}
+
+.navbarLink a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+.hamburger{
+    
+    display: none;
+}
+
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: #ede1e1;
+}
+
+.sectionInfo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+}
+
+.boxArticle{
+    width: 20%;
+    height: 500px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+.boxArticle img{
+    width: 100%;
+    height: 180px;
+}
+
+.sectionFaction{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+    
+    
+}
+
+.boxFaction{
+    width: 29%;
+    text-align: center;
+}
+
+.boxFaction img{
+    width: 100%;
+    height: 225px;
+    min-width: 100px;
+
+}
+
+#myForm{
+    width: 300px;
+    margin: 0 auto;
+}
+
+#myForm label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="email"], 
+input[type="text"], 
+input[type="password"]{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+input[type="submit"]{
+    background-color: gray;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover{
+    background-color: rgb(49, 23, 23);
+}
+
+.downBottom{
+    margin-top: 30px;
+    background-color: grey;
+    width: 100%;
+    height: 140px;
+    text-align: center;
+    padding-top: 90px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+@media screen and (max-width:768px) {
+    /* .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbarLink{
+        margin-top: 10px;
+    } */
+
+    .navbarLink{
+        display: none;
+    }
+
+    .hamburger{
+        cursor: pointer;
+        display: block;
+    }
+
+
+    .sectionInfo{
+        flex-direction: column;
+        align-items: flex-start;
+        
+    }
+
+    .boxArticle{
+        width: 300px;
+    }
+
+    .sectionFaction{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .boxFaction{
+        width: 500px;
+    }
+
+    
+    
+}
